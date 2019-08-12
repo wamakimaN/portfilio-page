@@ -1,12 +1,9 @@
 body {
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #85144b;
+  background-color: #AF5E81;
+  color: white;
 }
 h1 {
   text-align: center;
-  color: white;
-}
-.test-box {
-  border :5px black;
 }

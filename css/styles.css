@@ -11,12 +11,11 @@ h1 {
 }
 .segment {
   background-color: #8A0D2A;
-  padding-left: 20px;
+  box-shadow: 40%;
 }
 a {
   text-decoration: none;
   color: gray;
-
 }
 img {
   width: 738px;
@@ -24,4 +23,8 @@ img {
 }
 ul {
   list-style: none;
+}
+.explain {
+  font-style: italic;
+  font-size: 20px;
 }

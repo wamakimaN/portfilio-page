@@ -3,7 +3,6 @@ body {
   margin-right: 100px;
   background-color: #AF5E81;
   color: white;
-
 }
 h1 {
   text-align: center;
@@ -11,11 +10,12 @@ h1 {
 }
 .segment {
   background-color: #8A0D2A;
-  padding-left: 20px;  
+  padding-left: 20px;
 }
 a {
   text-decoration: none;
 }
-li{
-
+img {
+  width: 738px;
+  margin: 26px;
 }

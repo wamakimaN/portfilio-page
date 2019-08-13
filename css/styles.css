@@ -10,6 +10,7 @@ h1 {
   font-size: 35px;
   padding-top: 30px;
   padding-bottom: 30px;
+  margin:20px; 
 }
 h2 {
   padding: 20px;
@@ -20,6 +21,7 @@ h2 {
   margin: auto;
   padding-left: 30px;
   padding-right: 30px;
+  opacity: 40
 }
 a {
   text-decoration: none;

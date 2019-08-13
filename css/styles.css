@@ -1,7 +1,6 @@
 body {
   margin-left: 0;
   margin-right: 0;
-  background-color: #AF5E81;
   color: white;
   font-size: 24px;
   font-family: sans-serif;
@@ -36,4 +35,8 @@ ul {
 .explain {
   font-style: italic;
   font-size: 20px;
+}
+.main {
+  background-image: url(../images/background.jpg);
+  background-size:1300px;
 }
